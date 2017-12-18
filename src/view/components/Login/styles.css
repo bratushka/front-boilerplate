@@ -1,0 +1,8 @@
+.login-form {
+  width: 360px; }
+  .login-form__wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%; }

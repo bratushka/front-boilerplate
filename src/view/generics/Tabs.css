@@ -1,0 +1,11 @@
+.tabs {
+  border-bottom: 1px solid #000000;
+  display: flex; }
+  .tabs__item {
+    cursor: pointer;
+    flex-grow: 1;
+    line-height: 40px;
+    text-align: center; }
+    .tabs__item.active {
+      background-color: #DDDDDD;
+      border-radius: 2px 2px 0 0; }

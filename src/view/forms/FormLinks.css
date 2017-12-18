@@ -1,0 +1,4 @@
+.form-links {
+  display: flex;
+  font-size: .7em;
+  justify-content: space-around; }

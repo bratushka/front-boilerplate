@@ -1,0 +1,8 @@
+.verify-email {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+  .verify-email__image {
+    height: 100px;
+    width: 100px; }

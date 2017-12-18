@@ -1,0 +1,14 @@
+.input-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  .input-text > label {
+    display: block;
+    line-height: 30px;
+    width: 100%; }
+  .input-text > input {
+    border: none;
+    box-shadow: inset 0 0 2px black;
+    height: 30px;
+    padding: .5em;
+    width: 100%; }

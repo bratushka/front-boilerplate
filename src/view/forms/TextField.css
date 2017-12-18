@@ -1,0 +1,13 @@
+.text-field {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  .text-field > label {
+    display: block;
+    line-height: 30px;
+    width: 100%; }
+  .text-field > textarea {
+    border: none;
+    box-shadow: inset 0 0 2px black;
+    padding: .5em;
+    width: 100%; }

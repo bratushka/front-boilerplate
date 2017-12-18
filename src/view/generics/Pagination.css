@@ -1,0 +1,13 @@
+.pagination {
+  border-top: 1px solid #000000;
+  display: flex; }
+  .pagination__item {
+    cursor: pointer;
+    flex-grow: 1;
+    line-height: 40px;
+    text-align: center; }
+    .pagination__item.active {
+      background-color: #DDDDDD;
+      border-radius: 0 0 2px 2px; }
+    .pagination__item.ellipsis {
+      cursor: default; }

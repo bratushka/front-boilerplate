@@ -1,0 +1,11 @@
+@import "../constants.scss";
+
+
+.form-title {
+  font-size: 1.5em;
+  text-align: center;
+
+  @media screen and(min-width: 400px) {
+    font-size: 2em;
+  }
+}

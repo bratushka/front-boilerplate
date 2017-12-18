@@ -1,0 +1,20 @@
+.select {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  > label {
+    display: block;
+    line-height: 30px;
+    width: 100%;
+  }
+
+  > select {
+    background-color: #FFFFFF;
+    border: none;
+    box-shadow: inset 0 0 2px black;
+    height: 30px;
+    padding: .5em;
+    width: 100%;
+  }
+}
