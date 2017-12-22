@@ -6,8 +6,7 @@ services:
     build: .
     container_name: front
     ports:
-      - 8000:3000
-      - 1234:1234
+      - 3000:3000
     tty: true
     volumes:
       - .:/code/
